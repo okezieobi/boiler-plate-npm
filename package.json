@@ -1,6 +1,7 @@
 {
 	"author": "Frank Okezie Obiedere",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Me learning awesome on FreeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
